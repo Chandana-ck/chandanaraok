@@ -76,7 +76,6 @@ The platform improves workflow visibility, accountability, and coordination with
 <p align="center">
 Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • Git • GitHub • PowerBI • Tableau
 </p>
-
 ---
 
 ## 🌱 Current Focus
@@ -95,8 +94,14 @@ Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • G
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:chandanaraok27@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
 </a>
 
+</p>
+
+<p align="center">
+Turning ideas into systems and learning through the process.
 </p>
