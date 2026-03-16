@@ -89,11 +89,19 @@ Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • G
 ## 🤝 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chandana-rao-k">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:chandanaraok27@gmail.com">Email</a>
+
+<a href="https://www.linkedin.com/in/chandana-rao-k" style="margin-right:25px; text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;"/>
+&nbsp;LinkedIn
+</a>
+
+<a href="mailto:chandanaraok27@gmail.com" style="text-decoration:none;">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" style="vertical-align:middle;"/>
+&nbsp;Email
+</a>
+
 </p>
 
 <p align="center">
-Turning ideas into systems and learning through the process.
+Curious about ideas. Focused on building systems.
 </p>
