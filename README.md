@@ -1,4 +1,4 @@
-<h1 align="center">Chandana Rao</h1>
+<h1 align="center">Chandana Rao K</h1>
 
 <p align="center">
 🤖 Artificial Intelligence • 🧠 Intelligent Systems • 📚 Research Publication
