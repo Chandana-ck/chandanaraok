@@ -94,8 +94,6 @@ Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • G
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:chandanaraok27@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
 </a>
