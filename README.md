@@ -30,10 +30,10 @@ The system evaluates credibility using contextual analysis and artificial intell
 - AI-based classification using large language models  
 - Explanation-based outputs to improve transparency  
 
-This work resulted in the research publication:
+📄 **Research Publication**
 
 **Fake News Detection: An AI-Based Approach**  
-Published in *Journal of Emerging Technologies and Innovative Research (JETIR)*.
+Published in *Journal of Emerging Technologies and Innovative Research (JETIR)*
 
 ---
 
@@ -68,12 +68,13 @@ The platform improves workflow visibility, accountability, and coordination with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
 </p>
 
 <p align="center">
-Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • PowerBI • Tableau
+Python • C • SQL • HTML • CSS • MongoDB • MySQL • TensorFlow • Git • GitHub • PowerBI • Tableau
 </p>
 
 ---
