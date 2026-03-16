@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=6366F1&center=true&vCenter=true&width=600&lines=Chandana+Rao;Artificial+Intelligence+%26+Machine+Learning" />
-</p>
 
 <h1 align="center">Chandana Rao</h1>
 
